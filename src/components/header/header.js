@@ -3,8 +3,8 @@ import React from 'react';
 class Header extends React.Component {
   render() {
     return (
-      <header>
-        <h1>Counters R Fun</h1>
+      <header class="text-center text-6xl font-mono">
+        <h1>Another Counter</h1>
       </header>
     );
   }
